@@ -1,0 +1,22 @@
+{
+  "Sonic's Story": {
+    "connects_to": [
+      "Shadow's Story",
+      "Silver's Story"
+    ],
+    "requires": "",
+    "starting": true
+  },
+  "Shadow's Story": {
+    "connects_to": [
+      "Silver's Story"
+    ],
+    "requires": "|Shadow| AND |Rouge| and |Omega|"
+  },
+  "Silver's Story": {
+    "connects_to": [
+      "Shadow's Story"
+    ],
+    "requires": "|Silver| AND |Blaze| and |Amy|"
+  }
+}

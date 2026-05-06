@@ -1,0 +1,595 @@
+[
+  {
+    "name": "Sonic - Rainbow Gem (Super Sonic)",
+    "category": [
+      "Sonic"
+    ],
+    "requires": "|Sonic - Green Gem| and |Sonic - Red Gem| and |Sonic - Blue Gem| and |Sonic - White Gem| and |Sonic - Sky Gem| and |Sonic - Yellow Gem| and |Sonic - Purple Gem|\n",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Green Gem",
+    "category": [
+      "Sonic"
+    ],
+    "requires": "|Sonic|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Red Gem",
+    "category": [
+      "Sonic"
+    ],
+    "requires": "|Sonic|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Blue Gem",
+    "category": [
+      "Sonic"
+    ],
+    "requires": "|Sonic|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - White Gem",
+    "category": [
+      "Sonic"
+    ],
+    "requires": "|Sonic|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Sky Gem",
+    "category": [
+      "Sonic"
+    ],
+    "requires": "|Sonic|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Yellow Gem",
+    "category": [
+      "Sonic"
+    ],
+    "requires": "|Sonic|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Purple Gem",
+    "category": [
+      "Sonic"
+    ],
+    "requires": "|Sonic|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Shadow - Memory Shard (Light)",
+    "category": [
+      "Shadow"
+    ],
+    "requires": "|Shadow|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Silver - Lotus of Resilience",
+    "category": [
+      "Silver"
+    ],
+    "requires": "|Blaze| AND |Silver|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Silver - Flame of Control",
+    "category": [
+      "Silver"
+    ],
+    "requires": "|Blaze| AND |Silver|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Silver - Sigil of Awakening",
+    "category": [
+      "Silver"
+    ],
+    "requires": "|Blaze| AND |Amy| AND |Silver|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Sonic - Wave Ocean",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Sonic| AND |Tails|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Dusty Desert",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Sonic| AND |Tails| AND |Elise|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - White Acropolis",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Sonic| AND |Tails| AND |Elise| AND |Snowboarding Sonic|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Crisis City",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Sonic| AND |Tails| AND |Elise|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Flame Core",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Knuckles|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Radical Train",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Knuckles|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Tropical Jungle",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Knuckles|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Kingdom Valley",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Knuckles| AND |Silver|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Aquatic Base",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Knuckles|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Tails - Wave Ocean",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Knuckles|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Shadow - White Acropolis",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Shadow| AND |Rouge|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Shadow - Kingdom Valley",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Rouge| AND |Shadow| AND |Shadow - Hang Glider|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Shadow - Crisis City",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Rouge| AND |Shadow| AND |Shadow - Hang Glider|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Shadow - Flame Core",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Rouge| AND |Shadow| AND |Shadow - Hang Glider|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Shadow - Radical Train",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Rouge| AND |Shadow| AND |Shadow - Hang Glider| AND |Shadow - Motorcycle|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Shadow - Aquatic Base",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Rouge| AND |Shadow| AND |Shadow - Hang Glider| AND |Shadow - Motorcycle|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Shadow - Wave Ocean",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Rouge| AND |Shadow| AND |Shadow - Hang Glider| AND |Shadow - Motorcycle| AND |Omega|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Shadow - Dusty Desert",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Rouge| AND |Shadow| AND |Shadow - Hang Glider| AND |Shadow - Motorcycle| AND |Omega|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Rouge - Tropical Jungle",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Rouge| AND |Shadow|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Silver - Crisis City",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Silver| AND |Blaze|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Silver - Tropical Jungle",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Silver| AND |Blaze|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Silver - Dusty Desert",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Silver| AND |Blaze| AND |Amy|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Silver - White Acropolis",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Silver| AND |Blaze| AND |Amy|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Silver - Radical Train",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Silver| AND |Blaze| AND |Amy|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Silver - Aquatic Base",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Silver| AND |Blaze| AND |Amy|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Silver - Kingdom Valley",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Silver| AND |Blaze| AND |Amy|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Silver - Flame Core",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Silver| AND |Blaze| AND |Amy|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Blaze - Wave Ocean",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "|Silver| AND |Blaze|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Sonic - Wave Ocean S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Sonic| AND |Tails|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Dusty Desert S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Sonic| AND |Tails| AND |Elise|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - White Acropolis S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Sonic| AND |Tails| AND |Elise| AND |Snowboarding Sonic|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Crisis City S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Sonic| AND |Tails| AND |Elise| AND |Snowboarding Sonic|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Flame Core S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "|Knuckles|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Radical Train S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Knuckles| ",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Tropical Jungle S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Knuckles|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Kingdom Valley S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Knuckles|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Sonic - Aquatic Base S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Knuckles|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Tails - Wave Ocean S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Knuckles|",
+    "region": "Sonic's Story"
+  },
+  {
+    "name": "Shadow - White Acropolis S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Shadow| AND |Rouge|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Shadow - Kingdom Valley S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Rouge| AND |Shadow| AND |Shadow - Hang Glider|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Shadow - Crisis City S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Rouge| AND |Shadow| AND |Shadow - Hang Glider|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Shadow - Flame Core S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Rouge| AND |Shadow| AND |Shadow - Hang Glider|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Shadow - Radical Train S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Rouge| AND |Shadow| AND |Shadow - Motorcycle|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Shadow - Aquatic Base S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Omega| AND |Rouge| AND |Shadow| AND |Shadow - Hang Glider| AND |Shadow - Motorcycle|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Shadow - Wave Ocean S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Omega| AND |Rouge| AND |Shadow| AND |Shadow - Hang Glider| AND |Shadow - Motorcycle|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Shadow - Dusty Desert S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Omega| AND |Rouge| AND |Shadow| AND |Shadow - Hang Glider| AND |Shadow - Motorcycle|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Rouge - Tropical Jungle S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Rouge| AND |Omega|  AND |Shadow - Hang Glider| AND |Shadow| AND |Shadow - Motorcycle|",
+    "region": "Shadow's Story"
+  },
+  {
+    "name": "Silver - Crisis City S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Silver| AND |Blaze|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Silver - Tropical Jungle S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Silver| AND |Blaze|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Silver - Dusty Desert S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Silver| AND |Blaze| AND |Amy|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Silver - White Acropolis S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Silver| AND |Blaze| AND |Amy|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Silver - Radical Train S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Silver| AND |Blaze| AND |Amy|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Silver - Aquatic Base S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Silver| AND |Blaze| AND |Amy|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Silver - Kingdom Valley S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Silver| AND |Blaze| AND |Amy|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Silver - Flame Core S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Silver| AND |Blaze| AND |Amy|",
+    "region": "Silver's Story"
+  },
+  {
+    "name": "Blaze - Wave Ocean S Rank",
+    "category": [
+      "Level Completion",
+      "S Rank"
+    ],
+    "requires": "({YamlEnabled(S_Ranks)} AND |Silver| AND |Blaze| AND |Amy|"
+  },
+  {
+    "name": "100%",
+    "victory": true,
+    "category": [],
+    "requires": "|Sonic - Rainbow Gem (Super Sonic)| AND |Shadow - Memory Shard (Light)| AND |Silver - Sigil of Awakening|"
+  },
+  {
+    "name": "Sonic's Story - Levels Complete",
+    "region": "Sonic's Story",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Shadow's Story - Levels Complete",
+    "category": [],
+    "requires": "|Shadow| AND |Rouge| AND |Omega|"
+  },
+  {
+    "name": "Silver's Story - Levels Complete",
+    "category": [],
+    "requires": "|Silver| AND |Blaze| AND |Amy|"
+  }
+]

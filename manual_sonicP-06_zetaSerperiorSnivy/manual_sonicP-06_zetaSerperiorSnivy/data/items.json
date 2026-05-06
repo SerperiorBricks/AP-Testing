@@ -1,0 +1,250 @@
+[
+  {
+    "count": 1,
+    "name": "Sonic - Rainbow Gem (Super Sonic)",
+    "category": [
+      "Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sonic - Green Gem",
+    "category": [
+      "Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sonic - Red Gem",
+    "category": [
+      "Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sonic - Blue Gem",
+    "category": [
+      "Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sonic - White Gem",
+    "category": [
+      "Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sonic - Sky Gem",
+    "category": [
+      "Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sonic - Yellow Gem",
+    "category": [
+      "Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sonic - Purple Gem",
+    "category": [
+      "Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shadow - Memory Shard (Light)",
+    "category": [
+      "Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Silver - Lotus of Resilience",
+    "category": [
+      "Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Silver - Flame of Control",
+    "category": [
+      "Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Silver - Sigil of Awakening",
+    "category": [
+      "Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Knuckles",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rouge",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Omega",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blaze",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Amy",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sonic",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tails",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shadow",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Silver",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Elise",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mach Speed Sonic",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Snowboarding Sonic",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shadow - Hang Glider",
+    "category": [
+      "Vehicles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shadow - Buggy",
+    "category": [
+      "Vehicles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shadow - Motorcycle",
+    "category": [
+      "Vehicles"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Reset Stage",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": "10",
+    "name": "Death",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Re-Randomize",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": "5",
+    "name": "Swap Character",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  }
+]
