@@ -1,0 +1,419 @@
+[
+{
+    "name": "Main Chapter Progression",
+    "category": ["Main Chapters Available"],
+    "progression": true,
+    "count": 26
+},
+{
+    "name": "Prologue Chapter",
+    "category": ["Prologue (The Verge of History) Unlocked"],
+    "progression": true
+},
+{
+    "name": "Paralogue 1",
+    "category": ["Paralogue Chapters Available"],
+    "progression": true
+},
+{
+    "name": "Paralogue 2",
+    "category": ["Paralogue Chapters Available"],
+    "progression": true
+},
+{
+    "name": "Paralogue 3",
+    "category": ["Paralogue Chapters Available"],
+    "progression": true
+},
+{
+    "name": "Paralogue 4",
+    "category": ["Paralogue Chapters Available"],
+    "progression": true
+},
+{
+    "name": "Paralogue 5",
+    "category": ["Paralogue Chapters Available"],
+    "progression": true
+},
+{
+    "name": "Paralogue 6",
+    "category": ["Paralogue Chapters Available"],
+    "progression": true
+},
+{
+    "name": "Paralogue 7",
+    "category": ["Paralogue Chapters Available"],
+    "progression": true
+},
+{
+    "name": "Paralogue 8",
+    "category": ["Paralogue Chapters Available"],
+    "progression": true
+},
+{
+    "name": "Paralogue 9",
+    "category": ["Paralogue Chapters Available"],
+    "progression": true
+},
+{
+    "name": "Paralogue 10",
+    "category": ["Paralogue Chapters Available"],
+    "progression": true
+},
+{
+    "name": "Paralogue 11",
+    "category": ["Paralogue Chapters Available"],
+    "progression": true
+},
+{
+    "name": "Paralogue 12",
+    "category": ["Paralogue Chapters Available"],
+    "progression": true
+},
+{
+    "name": "Paralogue 13",
+    "category": ["Paralogue Chapters Available"],
+    "progression": true
+},
+{
+    "name": "Paralogue 14",
+    "category": ["Paralogue Chapters Available"],
+    "progression": true
+},
+{
+    "name": "Paralogue 15",
+    "category": ["Paralogue Chapters Available"],
+    "progression": true
+},
+{
+    "name": "Paralogue 16",
+    "category": ["Paralogue Chapters Available"],
+    "progression": true
+},
+{
+    "name": "Paralogue 17",
+    "category": ["Paralogue Chapters Available"],
+    "progression": true
+},
+{
+    "name": "Progressive Sword Rank",
+    "category": ["Weapon Upgrade"],
+    "useful": true,
+    "count": 5
+},
+{
+    "name": "Progressive Lance Rank",
+    "category": ["Weapon Upgrade"],
+    "useful": true,
+    "count": 5
+},
+{
+    "name": "Progressive Axe Rank",
+    "category": ["Weapon Upgrade"],
+    "useful": true,
+    "count": 5
+},
+{
+    "name": "Progressive Bow Rank",
+    "category": ["Weapon Upgrade"],
+    "useful": true,
+    "count": 5
+},
+{
+    "name": "Progressive Tome Rank",
+    "category": ["Weapon Upgrade"],
+    "useful": true,
+    "count": 5
+},
+{
+    "name": "Progressive Staff Rank",
+    "category": ["Weapon Upgrade"],
+    "useful": true,
+    "count": 5
+},
+{
+    "name": "Chrom",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Robin (Avatar)",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Lissa",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Frederick",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Sully",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Virion",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Stahl",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Vaike",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Miriel",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Sumia",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Kellam",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Donnel",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Lon'qu",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Ricken",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Maribelle",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Panne",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Gaius",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Cordelia",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Gregor",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Nowi",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Libra",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Tharja",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Anna",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Olivia",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Cherche",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Henry",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Say'ri",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Tiki",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Basilio",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Flavia",
+    "category": ["Usable Characters"],
+    "progression": true
+},
+{
+    "name": "Lucina",
+    "category": ["Usable Characters (child)"],
+    "progression": true
+},
+{
+    "name": "Owain",
+    "category": ["Usable Characters (child)"],
+    "progression": true
+},
+{
+    "name": "Inigo",
+    "category": ["Usable Characters (child)"],
+    "progression": true
+},
+{
+    "name": "Brady",
+    "category": ["Usable Characters (child)"],
+    "progression": true
+},
+{
+    "name": "Kjelle",
+    "category": ["Usable Characters (child)"],
+    "progression": true
+},
+{
+    "name": "Cynthia",
+    "category": ["Usable Characters (child)"],
+    "progression": true
+},
+{
+    "name": "Severa",
+    "category": ["Usable Characters (child)"],
+    "progression": true
+},
+{
+    "name": "Gerome",
+    "category": ["Usable Characters (child)"],
+    "progression": true
+},
+{
+    "name": "Morgan",
+    "category": ["Usable Characters (child)"],
+    "progression": true
+},
+{
+    "name": "Yarne",
+    "category": ["Usable Characters (child)"],
+    "progression": true
+},
+{
+    "name": "Laurent",
+    "category": ["Usable Characters (child)"],
+    "progression": true
+},
+{
+    "name": "Noire",
+    "category": ["Usable Characters (child)"],
+    "progression": true
+},
+{
+    "name": "Nah",
+    "category": ["Usable Characters (child)"],
+    "progression": true
+},
+{
+    "name": "Log",
+    "filler": true,
+    "count": 0
+},
+{
+    "name": "Tree Branch",
+    "filler": true,
+    "count": 0
+},
+{
+    "name": "Ladle",
+    "filler": true,
+    "count": 0
+},
+{
+    "name": "0 EXP",
+    "filler": true,
+    "count": 0
+},
+{
+    "name": "2 EXP",
+    "filler": true,
+    "count": 0
+},
+{
+    "name": "4 EXP",
+    "filler": true,
+    "count": 0
+},
+{
+    "name": "6 EXP",
+    "filler": true,
+    "count": 0
+},
+{
+    "name": "8 EXP",
+    "filler": true,
+    "count": 0
+},
+{
+    "name": "10 EXP",
+    "filler": true,
+    "count": 0
+},
+{
+    "name": "12 EXP",
+    "filler": true,
+    "count": 0
+},
+{
+    "name": "14 EXP",
+    "filler": true,
+    "count": 0
+},
+{
+    "name": "16 EXP",
+    "filler": true,
+    "count": 0
+},
+{
+    "name": "18 EXP",
+    "filler": true,
+    "count": 0
+},
+{
+    "name": "20 EXP",
+    "filler": true,
+    "count": 0
+}
+]

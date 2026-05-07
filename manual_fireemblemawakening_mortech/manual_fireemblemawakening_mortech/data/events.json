@@ -1,0 +1,14 @@
+[
+{
+    "name": "All Parent Units Found",
+    "requires": "|Chrom| and |Robin (Avatar)| and |Lissa| and |Frederick| and |Sully| and |Virion| and |Stahl| and |Vaike| and |Miriel| and |Sumia| and |Kellam| and |Donnel| and ({YamlDisabled(paralogue_gates)} or |Paralogue 1|) and |Lon'qu| and |Ricken| and |Maribelle| and |Panne| and |Gaius| and |Cordelia| and |Gregor| and |Nowi| and |Libra| and |Tharja| and |Olivia| and |Cherche| and |Henry|"
+},
+{
+    "name": "All Child Units Found",
+    "requires": "|Lucina| and |Owain| and ({YamlDisabled(paralogue_gates)} or |Paralogue 5|) and |Inigo| and ({YamlDisabled(paralogue_gates)} or |Paralogue 6|) and |Brady| and ({YamlDisabled(paralogue_gates)} or |Paralogue 7|) and |Kjelle| and ({YamlDisabled(paralogue_gates)} or |Paralogue 8|) and |Cynthia| and ({YamlDisabled(paralogue_gates)} or |Paralogue 9|) and |Severa| and ({YamlDisabled(paralogue_gates)} or |Paralogue 10|) and |Gerome| and ({YamlDisabled(paralogue_gates)} or |Paralogue 11|) and |Morgan| and ({YamlDisabled(paralogue_gates)} or |Paralogue 12|) and |Yarne| and ({YamlDisabled(paralogue_gates)} or |Paralogue 13|) and |Laurent| and ({YamlDisabled(paralogue_gates)} or |Paralogue 14|) and |Noire| and ({YamlDisabled(paralogue_gates)} or |Paralogue 15|) and |Nah| and ({YamlDisabled(paralogue_gates)} or |Paralogue 16|)"
+},
+{
+    "name": "All Units Found",
+    "requires": "|All Parent Units Found| and |All Child Units Found| and |Anna| and ({YamlDisabled(paralogue_gates)} or |Paralogue 4|) and |Tiki| and ({YamlDisabled(paralogue_gates)} or |Paralogue 17|) and |Say'ri| and |Basilio| and |Flavia|"
+}
+]
